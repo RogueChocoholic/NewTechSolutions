@@ -8,7 +8,6 @@ My first Front End design assignment; An e-commerce website for "NewTECH Solutio
 -[Browsable-pages](#browsable-pages)
 
 
-
 ### Screenshots
 
 ![](./css/NewTech%20Solutions%20SS/Screenshot%20(145).png)
