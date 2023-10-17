@@ -1,8 +1,15 @@
 # NewTechSolutions
 My first Front End design assignment; An e-commerce website for "NewTECH Solutions"
 
+## Contents
+-[Screenshots](#screenshots)
+-[Links](#links)
+-[Built_with](#built-with)
+-[Browsable-pages](#browsable-pages)
 
-### Screenshot
+
+
+### Screenshots
 
 ![](./css/NewTech%20Solutions%20SS/Screenshot%20(145).png)
 ![](./css/NewTech%20Solutions%20SS/Screenshot%20(146).png)
