@@ -2,11 +2,11 @@
 My first Front End design assignment; An e-commerce website for "NewTECH Solutions"
 
 ## Contents
--[Overview]
-    -[Screenshots](#screenshots)
-    -[Links](#links)
-    -[Built_with](#built-with)
-    -[Browsable-pages](#browsable-pages)
+
+- [Screenshots](#screenshots)
+- [Links](#links)
+- [Built_with](#built-with)
+- [Browsable-pages](#browsable-pages)
 
 
 ### Screenshots
